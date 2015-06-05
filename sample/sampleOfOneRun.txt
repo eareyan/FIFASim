@@ -1,0 +1,204 @@
+The following sample was generated from command line by using the following command:
+
+java -jar FifaSimulator.jar -resultsDir ../results/ -verbose yes -numberOfRuns 1 -numberOfTournaments 1
+
+FIFA:
+-----From main code:----
+Group A:[Team: Germany, ranking: 1669, Team: Switzerland, ranking: 1063, Team: Austria, ranking: 810, Team: Algeria, ranking: 989]
+Group B:[Team: Argentina, ranking: 1565, Team: USA, ranking: 862, Team: Côte d'Ivoire, ranking: 842, Team: Ukraine, ranking: 920]
+Group C:[Team: Colombia, ranking: 1420, Team: Denmark, ranking: 763, Team: Tunisia, ranking: 780, Team: Romania, ranking: 876]
+Group D:[Team: Belgium, ranking: 1388, Team: Iceland, ranking: 816, Team: Mexico, ranking: 954, Team: Bosnia and Herzegovina, ranking: 837]
+Group E:[Team: Netherlands, ranking: 1375, Team: Czech Republic, ranking: 870, Team: Spain, ranking: 1119, Team: Russia, ranking: 792]
+Group F:[Team: Brazil, ranking: 1307, Team: Portugal, ranking: 1175, Team: Ecuador, ranking: 826, Team: Costa Rica, ranking: 974]
+Group G:[Team: France, ranking: 1191, Team: Croatia, ranking: 1002, Team: Greece, ranking: 946, Team: England, ranking: 919]
+Group H:[Team: Uruguay, ranking: 1184, Team: Italy, ranking: 1064, Team: Chile, ranking: 1060, Team: Slovakia, ranking: 861]
+Team: Germany, ranking: 1669 against Team: Switzerland, ranking: 1063, Probability of team Germany winning is:0.61090773
+Team 1 wins!
+Team: Germany, ranking: 1669 against Team: Austria, ranking: 810, Probability of team Germany winning is:0.6732553
+Team 1 wins!
+Team: Germany, ranking: 1669 against Team: Algeria, ranking: 989, Probability of team Germany winning is:0.62791574
+Team 1 wins!
+Team: Switzerland, ranking: 1063 against Team: Austria, ranking: 810, Probability of team Switzerland winning is:0.5675387
+Team 2 wins!
+Team: Switzerland, ranking: 1063 against Team: Algeria, ranking: 989, Probability of team Switzerland winning is:0.5180312
+Team 2 wins!
+Team: Austria, ranking: 810 against Team: Algeria, ranking: 989, Probability of team Austria winning is:0.45025015
+Team 1 wins!
+---Final table for team A:---
+Germany			9
+Austria			6
+Algeria			3
+Switzerland			0
+Team: Argentina, ranking: 1565 against Team: USA, ranking: 862, Probability of team Argentina winning is:0.64482903
+Team 2 wins!
+Team: Argentina, ranking: 1565 against Team: Côte d'Ivoire, ranking: 842, Probability of team Argentina winning is:0.65018696
+Team 1 wins!
+Team: Argentina, ranking: 1565 against Team: Ukraine, ranking: 920, Probability of team Argentina winning is:0.6297787
+Team 1 wins!
+Team: USA, ranking: 862 against Team: Côte d'Ivoire, ranking: 842, Probability of team USA winning is:0.50586855
+Team 1 wins!
+Team: USA, ranking: 862 against Team: Ukraine, ranking: 920, Probability of team USA winning is:0.48372614
+Team 1 wins!
+Team: Côte d'Ivoire, ranking: 842 against Team: Ukraine, ranking: 920, Probability of team Côte d'Ivoire winning is:0.47786605
+Team 2 wins!
+---Final table for team B:---
+USA			9
+Argentina			6
+Ukraine			3
+Côte d'Ivoire			0
+Team: Colombia, ranking: 1420 against Team: Denmark, ranking: 763, Probability of team Colombia winning is:0.650481
+Team 1 wins!
+Team: Colombia, ranking: 1420 against Team: Tunisia, ranking: 780, Probability of team Colombia winning is:0.6454545
+Team 2 wins!
+Team: Colombia, ranking: 1420 against Team: Romania, ranking: 876, Probability of team Colombia winning is:0.6184669
+Team 1 wins!
+Team: Denmark, ranking: 763 against Team: Tunisia, ranking: 780, Probability of team Denmark winning is:0.49449125
+Team 2 wins!
+Team: Denmark, ranking: 763 against Team: Romania, ranking: 876, Probability of team Denmark winning is:0.46552777
+Team 1 wins!
+Team: Tunisia, ranking: 780 against Team: Romania, ranking: 876, Probability of team Tunisia winning is:0.4710145
+Team 1 wins!
+---Final table for team C:---
+Tunisia			9
+Colombia			6
+Denmark			3
+Romania			0
+Team: Belgium, ranking: 1388 against Team: Iceland, ranking: 816, Probability of team Belgium winning is:0.6297641
+Team 2 wins!
+Team: Belgium, ranking: 1388 against Team: Mexico, ranking: 954, Probability of team Belgium winning is:0.59265584
+Team 2 wins!
+Team: Belgium, ranking: 1388 against Team: Bosnia and Herzegovina, ranking: 837, Probability of team Belgium winning is:0.62382025
+Team 2 wins!
+Team: Iceland, ranking: 816 against Team: Mexico, ranking: 954, Probability of team Iceland winning is:0.46101695
+Team 2 wins!
+Team: Iceland, ranking: 816 against Team: Bosnia and Herzegovina, ranking: 837, Probability of team Iceland winning is:0.4936479
+Team 1 wins!
+Team: Mexico, ranking: 954 against Team: Bosnia and Herzegovina, ranking: 837, Probability of team Mexico winning is:0.53266335
+Team 1 wins!
+---Final table for team D:---
+Mexico			9
+Iceland			6
+Bosnia and Herzegovina			3
+Belgium			0
+Team: Netherlands, ranking: 1375 against Team: Czech Republic, ranking: 870, Probability of team Netherlands winning is:0.6124722
+Team 2 wins!
+Team: Netherlands, ranking: 1375 against Team: Spain, ranking: 1119, Probability of team Netherlands winning is:0.5513232
+Team 2 wins!
+Team: Netherlands, ranking: 1375 against Team: Russia, ranking: 792, Probability of team Netherlands winning is:0.6345178
+Team 1 wins!
+Team: Czech Republic, ranking: 870 against Team: Spain, ranking: 1119, Probability of team Czech Republic winning is:0.43740574
+Team 2 wins!
+Team: Czech Republic, ranking: 870 against Team: Russia, ranking: 792, Probability of team Czech Republic winning is:0.5234657
+Team 2 wins!
+Team: Spain, ranking: 1119 against Team: Russia, ranking: 792, Probability of team Spain winning is:0.5855573
+Team 1 wins!
+---Final table for team E:---
+Spain			9
+Russia			3
+Czech Republic			3
+Netherlands			3
+Team: Brazil, ranking: 1307 against Team: Portugal, ranking: 1175, Probability of team Brazil winning is:0.5265915
+Team 2 wins!
+Team: Brazil, ranking: 1307 against Team: Ecuador, ranking: 826, Probability of team Brazil winning is:0.612752
+Team 2 wins!
+Team: Brazil, ranking: 1307 against Team: Costa Rica, ranking: 974, Probability of team Brazil winning is:0.5729943
+Team 1 wins!
+Team: Portugal, ranking: 1175 against Team: Ecuador, ranking: 826, Probability of team Portugal winning is:0.5872064
+Team 2 wins!
+Team: Portugal, ranking: 1175 against Team: Costa Rica, ranking: 974, Probability of team Portugal winning is:0.5467659
+Team 2 wins!
+Team: Ecuador, ranking: 826 against Team: Costa Rica, ranking: 974, Probability of team Ecuador winning is:0.4588889
+Team 2 wins!
+---Final table for team F:---
+Costa Rica			6
+Ecuador			6
+Portugal			3
+Brazil			3
+Team: France, ranking: 1191 against Team: Croatia, ranking: 1002, Probability of team France winning is:0.54309165
+Team 2 wins!
+Team: France, ranking: 1191 against Team: Greece, ranking: 946, Probability of team France winning is:0.55732334
+Team 2 wins!
+Team: France, ranking: 1191 against Team: England, ranking: 919, Probability of team France winning is:0.564455
+Team 1 wins!
+Team: Croatia, ranking: 1002 against Team: Greece, ranking: 946, Probability of team Croatia winning is:0.5143737
+Team 1 wins!
+Team: Croatia, ranking: 1002 against Team: England, ranking: 919, Probability of team Croatia winning is:0.52160335
+Team 1 wins!
+Team: Greece, ranking: 946 against Team: England, ranking: 919, Probability of team Greece winning is:0.5072386
+Team 2 wins!
+---Final table for team G:---
+Croatia			9
+England			3
+Greece			3
+France			3
+Team: Uruguay, ranking: 1184 against Team: Italy, ranking: 1064, Probability of team Uruguay winning is:0.52669036
+Team 2 wins!
+Team: Uruguay, ranking: 1184 against Team: Chile, ranking: 1060, Probability of team Uruguay winning is:0.52762926
+Team 2 wins!
+Team: Uruguay, ranking: 1184 against Team: Slovakia, ranking: 861, Probability of team Uruguay winning is:0.5789731
+Team 1 wins!
+Team: Italy, ranking: 1064 against Team: Chile, ranking: 1060, Probability of team Italy winning is:0.50094163
+Team 2 wins!
+Team: Italy, ranking: 1064 against Team: Slovakia, ranking: 861, Probability of team Italy winning is:0.5527273
+Team 2 wins!
+Team: Chile, ranking: 1060 against Team: Slovakia, ranking: 861, Probability of team Chile winning is:0.55179596
+Team 1 wins!
+---Final table for team H:---
+Chile			9
+Slovakia			3
+Italy			3
+Uruguay			3
+-----Round of 16------
+Team: Germany, ranking: 1669 against Team: Argentina, ranking: 1565, Probability of team Germany winning is:0.5160792
+Team 1 wins!
+Team: USA, ranking: 862 against Team: Austria, ranking: 810, Probability of team USA winning is:0.51555026
+Team 1 wins!
+Team: Tunisia, ranking: 780 against Team: Iceland, ranking: 816, Probability of team Tunisia winning is:0.48872182
+Team 1 wins!
+Team: Mexico, ranking: 954 against Team: Colombia, ranking: 1420, Probability of team Mexico winning is:0.4018534
+Team 1 wins!
+Team: Spain, ranking: 1119 against Team: Ecuador, ranking: 826, Probability of team Spain winning is:0.5753213
+Team 1 wins!
+Team: Costa Rica, ranking: 974 against Team: Russia, ranking: 792, Probability of team Costa Rica winning is:0.5515289
+Team 1 wins!
+Team: Croatia, ranking: 1002 against Team: Slovakia, ranking: 861, Probability of team Croatia winning is:0.5378422
+Team 1 wins!
+Team: Chile, ranking: 1060 against Team: England, ranking: 919, Probability of team Chile winning is:0.535624
+Team 2 wins!
+Final 8:
+Germany
+USA
+Tunisia
+Mexico
+Spain
+Costa Rica
+Croatia
+England
+-----Quarter-finals------
+Team: Germany, ranking: 1669 against Team: Tunisia, ranking: 780, Probability of team Germany winning is:0.68150264
+Team 1 wins!
+Team: Spain, ranking: 1119 against Team: Croatia, ranking: 1002, Probability of team Spain winning is:0.52758133
+Team 2 wins!
+Team: USA, ranking: 862 against Team: Mexico, ranking: 954, Probability of team USA winning is:0.4746696
+Team 1 wins!
+Team: Costa Rica, ranking: 974 against Team: England, ranking: 919, Probability of team Costa Rica winning is:0.5145272
+Team 2 wins!
+Final 4:
+Germany
+Croatia
+USA
+England
+Team: Germany, ranking: 1669 against Team: Croatia, ranking: 1002, Probability of team Germany winning is:0.62485963
+Team 2 wins!
+Team: USA, ranking: 862 against Team: England, ranking: 919, Probability of team USA winning is:0.48399776
+Team 1 wins!
+Final two teams:Team: Croatia, ranking: 1002 and Team: USA, ranking: 862
+Third and fourt:Team: Germany, ranking: 1669 and Team: England, ranking: 919
+Team: Germany, ranking: 1669 against Team: England, ranking: 919, Probability of team Germany winning is:0.64489955
+Team 2 wins!
+Team: Croatia, ranking: 1002 against Team: USA, ranking: 862, Probability of team Croatia winning is:0.53755367
+Team 2 wins!
+Winner!: USA
+Second: Croatia
+third: England
+fourth: Germany
